@@ -1,0 +1,3 @@
+/home/azma/vision humanoid/deteksi bola/build/CMakeFiles/BallDetection.dir
+/home/azma/vision humanoid/deteksi bola/build/CMakeFiles/edit_cache.dir
+/home/azma/vision humanoid/deteksi bola/build/CMakeFiles/rebuild_cache.dir

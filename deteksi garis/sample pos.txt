@@ -1,0 +1,6 @@
+format: x y sudut
+robot lurus menghadap garang = 90
+
+sample 1: 1, -3, 90
+sample 2: -1, -4.5, 90
+sample 3: 2, -3, 90
